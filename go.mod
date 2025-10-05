@@ -26,7 +26,7 @@ require (
 	github.com/rs/cors v1.8.3
 	github.com/sasha-s/go-deadlock v0.3.1
 	github.com/snikch/goodman v0.0.0-20171125024755-10e37e294daa
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.10.1
 	github.com/spf13/viper v1.18.1
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/crypto v0.21.0
@@ -91,7 +91,7 @@ require (
 	github.com/chigopher/pathlib v0.12.0 // indirect
 	github.com/cloudflare/circl v1.3.7 // indirect
 	github.com/containerd/continuity v0.3.0 // indirect
-	github.com/cpuguy83/go-md2man/v2 v2.0.3 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.6 // indirect
 	github.com/curioswitch/go-reassign v0.2.0 // indirect
 	github.com/cyphar/filepath-securejoin v0.2.4 // indirect
 	github.com/daixiang0/gci v0.10.1 // indirect
@@ -248,7 +248,7 @@ require (
 	github.com/sourcegraph/go-diff v0.7.0 // indirect
 	github.com/spf13/afero v1.11.0 // indirect
 	github.com/spf13/cast v1.6.0 // indirect
-	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/spf13/pflag v1.0.9 // indirect
 	github.com/ssgreg/nlreturn/v2 v2.2.1 // indirect
 	github.com/stbenjam/no-sprintf-host-port v0.1.1 // indirect
 	github.com/stretchr/objx v0.5.0 // indirect
